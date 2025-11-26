@@ -1,5 +1,5 @@
 //
-//  RhythmicWalkingViewController.swift
+//  SessionRunningViewController.swift
 //  Parkinson's App
 //
 //  Created by SDC-USER on 25/11/25.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class RhythmicWalkingViewController: UIViewController {
+class SessionRunningViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
